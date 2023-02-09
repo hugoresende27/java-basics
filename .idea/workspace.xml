@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afaad339-ecc6-4f13-b66f-36527992c60d" name="Changes" comment="chapter 4">
-      <change afterPath="$PROJECT_DIR$/src/BuiltInFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MealPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculator.java" afterDir="false" />
+    <list default="true" id="afaad339-ecc6-4f13-b66f-36527992c60d" name="Changes" comment="chapter 5">
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter5Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter5Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SalaryCalculator">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BuiltInFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuiltInFunction" />
       <module name="LearningJava" />
@@ -53,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter4Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4Area" />
+    <configuration name="Chapter5Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5Functions" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter5Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5Functions" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SalaryCalculator" />
         <item itemvalue="Application.BuiltInFunction" />
         <item itemvalue="Application.MealPrice" />
         <item itemvalue="Application.Chapter5Functions" />
-        <item itemvalue="Application.Chapter4Area" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675967111538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter 5">
+      <created>1675974939539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974939539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter 3" />
     <MESSAGE value="chapter 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 4" />
+    <MESSAGE value="chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearningJava$ExerciceA.ic" NAME="ExerciceA Coverage Results" MODIFIED="1675966049135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
