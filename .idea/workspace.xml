@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afaad339-ecc6-4f13-b66f-36527992c60d" name="Changes" comment="chapter 5">
+    <list default="true" id="afaad339-ecc6-4f13-b66f-36527992c60d" name="Changes" comment="final">
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StudentA.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StudentExercise.java" afterDir="false" />
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675978958317</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final">
+      <created>1676060825771</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676060825771</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +168,8 @@
     <MESSAGE value="chapter 3" />
     <MESSAGE value="chapter 4" />
     <MESSAGE value="chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 5" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearningJava$ExerciceA.ic" NAME="ExerciceA Coverage Results" MODIFIED="1675966049135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
