@@ -1,6 +1,10 @@
 public class Triangle {
 
-    //attribue or instance variables
+
+    //STATIC var
+    static int numOfSides = 3;
+
+    //attribue or instance variables NO STATIC
     double base;
     double height;
     double sideLenOne;

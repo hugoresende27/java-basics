@@ -8,6 +8,17 @@ public class Main {
 
         double triaAArea = triangleA.findArea();
         System.out.println(triaAArea);
+
+        double triaBArea = triangleB.findArea();
+        System.out.println(triaBArea);
+
+        System.out.println(triangleA.sideLenOne);
+        System.out.println(triangleB.base);
+
+        //access static var
+        System.out.println(Triangle.numOfSides);
+
+
     }
 
 
